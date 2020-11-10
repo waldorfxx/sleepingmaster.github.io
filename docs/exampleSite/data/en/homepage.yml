@@ -1,0 +1,292 @@
+########################## hero area ##########################
+hero:
+  title : "I'm Sunee Sae-Lao"
+
+  # animated text loop
+  occupations:
+    - "Data Scientist"
+    - "UI/UX Designer"
+    - "Motion/Graphic Designer"
+
+  # slider background image loop
+  slider_image:
+    - "images/slider/slider-bg.jpg"
+ 
+  # button
+  button:
+    enable : true
+    label : "GET IN TOUCH WITH ME"
+    link : "#contact"
+
+
+####################### Full screen navigation #####################
+fullscreen_nav:
+  enable : false
+  bg_image : "images/backgrounds/full-nav-bg.jpg"
+  first_name : "Sunee"
+  last_name : "Sae-Lao"
+  
+
+########################### About ##################################
+about:
+  enable : true
+  image : "images/backgrounds/portrait-me.jpg"
+  title : "ABOUT ME <br>"
+  content : "Creative and people-oriented computer scientist from Ritsumeikan University with a Master's Degree in Information Science and Engineering. Advanced knowledge of design principles with 3+ years of experience working with an advertisement company."
+  
+  education_list:
+    # experience item loop
+    - name : "MASTER OF ENGINEERING (JICA’s INNOVATIVE ASIA SCHOLARSHIP)"
+      company : "Ritsumeikan University, Japan"
+      duration : "2018 - 2020"
+      content : "Graduate School of Information Science and Engineering"
+
+    - name : "BACHELOR OF SCIENCE"
+      company : "Thai-Nichi Institute of Technology, Thailand"
+      duration : "2011 - 2015"
+      content : "Multimedia Technology Major / Faculty of Information Technology"
+
+      # button
+  # button:
+    #enable : true
+    #label : "DOWNLOAD MY CV"
+    #link : "#" # you can put your cv in static folder and give the path here.
+
+
+
+
+###########################3 Experience ##############################
+experience:
+  enable : true
+  title : "EXPERIENCE"
+  experience_list:
+    # experience item loop
+    - name : "UI/UX Designer (Contract)"
+      company : "Eftax Co., Ltd, Japan"
+      duration : "SEP 2020 - CURRENT"
+      content : "I work with Adobe XD, figma to create websites and showcase design ideas through sitemaps, storyboards, and
+process flows. Create a brand identity advertisement design."
+      
+    # experience item loop
+    - name : "Senior Motion Graphic Designer"
+      company : "VGI Public Co., Ltd, Thailand"
+      duration : "SEP 2015 - SEP 2018"
+      content : "I worked with Sales and Marketing team, and Clent to understand project scope and objectives. Design and create enciting motion graphics for advertisement."
+      
+
+      
+############################### Skill #################################
+skill:
+  enable : true
+  title : "SKILL"
+  skill_list:
+    # skill item loop
+    - name : "Deep Learning & Machine Learning (Tensorflow, Scikit-Learn, Keras)"
+      percentage : "70%"
+      
+    # skill item loop
+    - name : "Motion & Graphic Design"
+      percentage : "98%"
+      
+    # skill item loop
+    - name : "UI/UX Designer"
+      percentage : "80%"
+      
+    # skill item loop
+    - name : "Programming (Python, C#, Java)"
+      percentage : "70%"
+
+
+################################### Service ##############################3
+#service:
+#  enable : true
+#  title : "SERVICES"
+#  service_list:
+    # service item loop
+#    - name : "Web Development"
+#      image : "images/icons/web-development.png"
+      
+    # service item loop
+#    - name : "Graphic Design"
+#      image : "images/icons/graphic-design.png"
+      
+    # service item loop
+#    - name : "Database Management"
+#      image : "images/icons/dbms.png"
+      
+    # service item loop
+#    - name : "Software Development"
+#      image : "images/icons/software-development.png"
+      
+    # service item loop
+#    - name : "Digital Marketing"
+#      image : "images/icons/marketing.png"
+      
+    # service item loop
+#    - name : "Mobile App Development"
+#      image : "images/icons/mobile-app.png"
+
+
+############################## call to action #########################
+#call_to_action:
+#  enable : true
+#  bg_image : "images/backgrounds/need-service.jpg"
+#  title : "NEED A SERVICE?"
+#  button:
+#    enable : true
+#    label : "SAY HELLO!"
+#    link : "#contact"
+
+
+############################# portfolio ################################
+portfolio:
+  enable : true
+  title : "PORTFOLIO"
+  portfolio_list:
+    # portfolio item loop
+    - name : "Landing Page"
+      image : "images/portfolio/item-1.jpg"
+      date : "AUG 2020"
+      category : "UI & UX"
+      
+    # portfolio item loop
+    - name : "Policy Page"
+      image : "images/portfolio/item-2.jpg"
+      date : "SEP 2020"
+      category : "UI & UX"
+      
+    # portfolio item loop
+    - name : "Marathon Medal"
+      image : "images/portfolio/item-3.jpg"
+      date : ""
+      category : "Motion/Graphic Designer"
+      
+    # portfolio item loop
+    - name : "Mima Chair"
+      image : "images/portfolio/item-4.jpg"
+      date : ""
+      category : "Motion/Graphic Designer"
+      
+    # portfolio item loop
+    - name : "Mima Banner"
+      image : "images/portfolio/item-5.jpg"
+      date : ""
+      category : "Motion/Graphic Designer"
+      
+    # portfolio item loop
+    - name : "Visual Effect 3D"
+      image : "images/portfolio/item-6.jpg"
+      date : ""
+      category : "3D"
+      
+    # portfolio item loop
+    - name : "Banner"
+      image : "images/portfolio/item-7.jpg"
+      date : ""
+      category : "Motion/Graphic Designer"
+      
+    # portfolio item loop
+    - name : "Marathon Medal"
+      image : "images/portfolio/item-8.jpg"
+      date : ""
+      category : "Motion/Graphic Designer"
+      
+    # portfolio item loop
+    - name : "Marathon Shirt"
+      image : "images/portfolio/item-9.jpg"
+      date : ""
+      category : "Motion/Graphic Designer"
+      
+    # portfolio item loop
+    - name : "Marathon Medal"
+      image : "images/portfolio/item-10.jpg"
+      date : ""
+      category : "Motion/Graphic Designer"
+      
+    # portfolio item loop
+    - name : "Web Design"
+      image : "images/portfolio/item-11.jpg"
+      date : ""
+      category : "UI & UX"
+      
+    # portfolio item loop
+    - name : "Ad Video"
+      image : "images/portfolio/item-12.jpg"
+      date : ""
+      category : "Motion/Graphic Designer"
+      
+    # portfolio item loop
+    - name : "Ad Video"
+      image : "images/portfolio/item-13.jpg"
+      date : ""
+      category : "Motion/Graphic Designer"
+      
+    # portfolio item loop
+    - name : "Ad  Video"
+      image : "images/portfolio/item-14.jpg"
+      date : ""
+      category : "Motion/Graphic Designer"
+      
+    # portfolio item loop
+    - name : "Ad Video"
+      image : "images/portfolio/item-15.jpg"
+      date : ""
+      category : "Motion/Graphic Designer"
+
+
+################################# Testimonial #########################33
+#testimonial:
+#  enable : true
+#  title : "TESTIMONIALS"
+#  testimonial_slider:
+    # slider item loop
+#    - name : "Micheal Clark"
+#      image : "images/clients/client1.jpg"
+#      designation : "CEO, RANDOM COMPANY"
+#      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
+#                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+                
+    # slider item loop
+#    - name : "Peter Parker"
+#      image : "images/clients/client2.jpg"
+#      designation : "CEO, RANDOM COMPANY"
+#      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
+#                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+                
+    # slider item loop
+#    - name : "Jessica Jones"
+#      image : "images/clients/client3.jpg"
+#      designation : "CEO, RANDOM COMPANY"
+#      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
+#                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+
+
+######################### funfacts #############################3
+#funfacts:
+#  enable : true
+#  funfacts_list:
+    # funfacts item loop
+#    - name : "HANDS TO WORK"
+#      image : "images/icons/works.png"
+#      count : "100"
+      
+    # funfacts item loop
+#    - name : "HAPPY CLIENT"
+#      image : "images/icons/happy.png"
+#      count : "200"
+      
+    # funfacts item loop
+#    - name : "FINISHED PROJECT"
+#      image : "images/icons/project.png"
+#      count : "250"
+      
+    # funfacts item loop
+#    - name : "CUPS OF COFFEE"
+#      image : "images/icons/coffee.png"
+#      count : "150"
+
+
+############################## contact ###########################
+contact:
+  enable : true
+  title : "GET IN TOUCH WITH ME"
