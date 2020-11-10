@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://waldorfxx.github.io/sleepingmaster/fr/categories/</loc>
+    <loc>sleepingmaster/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://waldorfxx.github.io/sleepingmaster/categories/"
+                href="sleepingmaster/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://waldorfxx.github.io/sleepingmaster/fr/categories/"
+                href="sleepingmaster/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://waldorfxx.github.io/sleepingmaster/fr/</loc>
+    <loc>sleepingmaster/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://waldorfxx.github.io/sleepingmaster/"
+                href="sleepingmaster/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://waldorfxx.github.io/sleepingmaster/fr/"
+                href="sleepingmaster/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://waldorfxx.github.io/sleepingmaster/fr/tags/</loc>
+    <loc>sleepingmaster/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://waldorfxx.github.io/sleepingmaster/tags/"
+                href="sleepingmaster/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://waldorfxx.github.io/sleepingmaster/fr/tags/"
+                href="sleepingmaster/fr/tags/"
                 />
   </url>
   

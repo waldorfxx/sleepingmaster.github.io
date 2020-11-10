@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sunee | Webfolio</title>
-    <link>https://waldorfxx.github.io/sleepingmaster/categories/</link>
+    <link>sleepingmaster/categories/</link>
     <description>Recent content in Categories on Sunee | Webfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 by sunee</copyright><atom:link href="https://waldorfxx.github.io/sleepingmaster/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2020 by sunee</copyright><atom:link href="sleepingmaster/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://waldorfxx.github.io/sleepingmaster/"
+baseURL = "sleepingmaster/"
 title = "Sunee | Webfolio"
 theme = "sleepingmaster"
 publishDir = "docs"
