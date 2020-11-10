@@ -2,12 +2,12 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>sleepingmaster/en/sitemap.xml</loc>
+    <loc>https://examplesite.com/en/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>sleepingmaster/fr/sitemap.xml</loc>
+    <loc>fr/sitemap.xml</loc>
     
   </sitemap>
   
