@@ -1339,7 +1339,7 @@
   font-family: 'Font Awesome 5 Brands';
   font-weight: 400;
 }
-.#{$fa-css-prefix}.#{$fa-css-prefix}-meanpath:before { content: fa-content($fa-var-font-awesome); }
+.#{$fa-css-prefix}.#{$fa-css-prefix}-meanpath:before { content: fa-content($fa-var-fontawesome); }
 
 .#{$fa-css-prefix}.#{$fa-css-prefix}-buysellads {
   font-family: 'Font Awesome 5 Brands';
@@ -1881,7 +1881,7 @@
 }
 .#{$fa-css-prefix}.#{$fa-css-prefix}-google-plus-circle:before { content: fa-content($fa-var-google-plus); }
 
-.#{$fa-css-prefix}.#{$fa-css-prefix}-font-awesome {
+.#{$fa-css-prefix}.#{$fa-css-prefix}-fontawesome {
   font-family: 'Font Awesome 5 Brands';
   font-weight: 400;
 }
@@ -1890,7 +1890,7 @@
   font-family: 'Font Awesome 5 Brands';
   font-weight: 400;
 }
-.#{$fa-css-prefix}.#{$fa-css-prefix}-fa:before { content: fa-content($fa-var-font-awesome); }
+.#{$fa-css-prefix}.#{$fa-css-prefix}-fa:before { content: fa-content($fa-var-fontawesome); }
 
 .#{$fa-css-prefix}.#{$fa-css-prefix}-handshake-o {
   font-family: 'Font Awesome 5 Free';

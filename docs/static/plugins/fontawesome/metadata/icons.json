@@ -20675,7 +20675,7 @@
       "solid"
     ]
   },
-  "font-awesome": {
+  "fontawesome": {
     "changes": [
       "4.6",
       "5.0.0"
@@ -20711,7 +20711,7 @@
       "brands"
     ]
   },
-  "font-awesome-alt": {
+  "fontawesome-alt": {
     "changes": [
       "5.0.0"
     ],
@@ -20744,7 +20744,7 @@
       "brands"
     ]
   },
-  "font-awesome-flag": {
+  "fontawesome-flag": {
     "changes": [
       "5.0.0",
       "5.0.1"
@@ -20778,7 +20778,7 @@
       "brands"
     ]
   },
-  "font-awesome-logo-full": {
+  "fontawesome-logo-full": {
     "changes": [
       "5.0.11"
     ],

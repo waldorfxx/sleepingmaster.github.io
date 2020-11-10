@@ -7776,7 +7776,7 @@ font:
     - solid
   unicode: f031
   voted: false
-font-awesome:
+fontawesome:
   changes:
     - '4.6'
     - 5.0.0
@@ -7788,7 +7788,7 @@ font-awesome:
     - brands
   unicode: f2b4
   voted: false
-font-awesome-alt:
+fontawesome-alt:
   changes:
     - 5.0.0
   label: Alternate Font Awesome
@@ -7798,7 +7798,7 @@ font-awesome-alt:
     - brands
   unicode: f35c
   voted: false
-font-awesome-flag:
+fontawesome-flag:
   changes:
     - 5.0.0
     - 5.0.1
@@ -7809,7 +7809,7 @@ font-awesome-flag:
     - brands
   unicode: f425
   voted: false
-font-awesome-logo-full:
+fontawesome-logo-full:
   changes:
     - 5.0.11
   label: Font Awesome Full Logo
