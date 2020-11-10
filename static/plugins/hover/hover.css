@@ -2974,7 +2974,7 @@
 }
 
 /* Icon Up */
-@-webkit-keyframes hvr-icon-up {
+@-webkit-keyframes   {
   0%,
 	50%,
 	100% {
@@ -2987,7 +2987,7 @@
     transform: translateY(-6px);
   }
 }
-@keyframes hvr-icon-up {
+@keyframes   {
   0%,
 	50%,
 	100% {
@@ -3001,7 +3001,7 @@
   }
 }
 /* Icon Up */
-.hvr-icon-up {
+.  {
   display: inline-block;
   vertical-align: middle;
   -webkit-transform: perspective(1px) translateZ(0);
@@ -3010,7 +3010,7 @@
   position: relative;
   padding-right: 2.2em;
 }
-.hvr-icon-up:before {
+. :before {
   content: "\f01b";
   position: absolute;
   right: 1em;
@@ -3019,9 +3019,9 @@
   -webkit-transform: translateZ(0);
   transform: translateZ(0);
 }
-.hvr-icon-up:hover:before, .hvr-icon-up:focus:before, .hvr-icon-up:active:before {
-  -webkit-animation-name: hvr-icon-up;
-  animation-name: hvr-icon-up;
+. :hover:before, . :focus:before, . :active:before {
+  -webkit-animation-name:  ;
+  animation-name:  ;
   -webkit-animation-duration: 0.75s;
   animation-duration: 0.75s;
   -webkit-animation-timing-function: ease-out;
